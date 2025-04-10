@@ -1,4 +1,10 @@
 # assignment-1
-here is an unncesseary fun fact: 
 
-A group of owls is called a parliament.
+<picture>
+ <img src="https://i.imgflip.com/4hzna9.jpg">
+</picture>
+
+<details>
+<summary>quote</summary>
+---
+wassup
