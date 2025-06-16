@@ -22,6 +22,8 @@ def get_user_input(user_input, min_val, max_val):
         else:
             print("Hmm something went wrong... Please enter a valid number!")
 
+
+
 type_text("Welcome to the Vibe Checker", 0.05)
 time.sleep(1)
 
